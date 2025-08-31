@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![GitHub stats](https://github-readme-stats-git-master-vinciwus-projects.vercel.app/api?username=VinciWu557)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VinciWu557)
 
 <!--
 **VinciWu557/VinciWu557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
