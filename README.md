@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Vinci's GitHub stats](https://github-readme-stats-xi-one-63.vercel.app/api?username=VinciWu557&show_icons=true)
+![Vinci's GitHub stats](https://github-readme-stats-git-master-vinciwus-projects.vercel.app/api?username=VinciWu557&show_icons=true)
 
 <!--
 **VinciWu557/VinciWu557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
