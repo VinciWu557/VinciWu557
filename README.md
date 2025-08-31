@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div style="display:flex;flex-direction:row;justify-content:center;">
   <img height="140"  src="https://github-readme-stats.vercel.app/api?username=VinciWu557&count_private=true&show_icons=true" alt="readme stats" style="margin: 0" /> 
   <img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs?username=VinciWu557&show_icons=true&locale=en&layout=compact&exclude_repo=github-readme-stats" alt="VinciWu557" style="margin: 0" />
